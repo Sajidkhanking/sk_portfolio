@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-fhf!tk&$z!xvf(l!2z&z%%pz3lr(zo6trwg__n$ugtulemsbt6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://sk-portfolio-sage.vercel.app/]  
 
 
 # Application definition
